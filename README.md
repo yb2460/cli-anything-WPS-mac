@@ -14,7 +14,7 @@
 
 ### 1. cli-anything-office — 跨平台 Office 操控
 
-- **Windows**: WPS COM 接口
+- **Windows**: WPS COM 或 Microsoft Office COM（PowerPoint/Word/Excel）
 - **macOS/Linux**: LibreOffice headless
 
 ```bash
