@@ -1,0 +1,54 @@
+{
+  "project_path": "D:\\A-资料\\A-claudewenjian\\photoshop-harness\\e2e_demo.psd",
+  "document": {
+    "name": "e2e_demo.psd",
+    "path": "D:\\A-资料\\A-claudewenjian\\photoshop-harness\\",
+    "width": 799,
+    "height": 600,
+    "resolution": 72.0,
+    "mode": "RGB",
+    "bits_per_channel": 8,
+    "layer_count": 3
+  },
+  "layers": [
+    {
+      "name": "Text: Hello from CLI-Anyth",
+      "type": "text",
+      "visible": true,
+      "opacity": 100.0,
+      "blend_mode": "normal",
+      "bounds": [
+        100.11833333333333,
+        198.61388888888885,
+        118.92138888888887,
+        200.41305555555553
+      ]
+    },
+    {
+      "name": "背景",
+      "type": "pixel",
+      "visible": true,
+      "opacity": 100.0,
+      "blend_mode": "normal",
+      "bounds": [
+        0.0,
+        0.0,
+        799.9941666666666,
+        600.0044444444444
+      ]
+    },
+    {
+      "name": "背景",
+      "type": "pixel",
+      "visible": true,
+      "opacity": 100.0,
+      "blend_mode": "normal",
+      "bounds": [
+        0.0,
+        0.0,
+        799.9941666666666,
+        600.0044444444444
+      ]
+    }
+  ]
+}
